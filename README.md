@@ -170,7 +170,7 @@ START → generate_query_or_respond ──(tools?)──▶ retrieve ──(rele
 
 ## 📚 Acknowledgments
 
-* Built by following the **LangGraph** RAG agent pattern.
+* Built by following the **LangGraph** RAG agent pattern ([here](https://langchain-ai.github.io/langgraph/tutorials/rag/langgraph_agentic_rag/)).
 * Example corpus: public posts by **Lilian Weng** (used for educational purposes).
 
 ```
